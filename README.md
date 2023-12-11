@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=9B9FD9&height=150&section=header&text=Terry&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=7BD1D2&height=150&section=header&text=Terry's GitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ### Hi there 👋 </br>I'm Seungil Jang, I'm Backend-Engineer
