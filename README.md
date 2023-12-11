@@ -28,9 +28,10 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br>
+<br>
 </div>
 
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungIlJang&show_icons=true&theme=radical)
 
 <!--
