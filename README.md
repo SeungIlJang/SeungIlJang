@@ -35,7 +35,7 @@
 <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungIlJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungIlJang&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 </div>
 <!--
 **SeungIlJang/SeungIlJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
