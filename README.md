@@ -31,8 +31,13 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br>
 <br>
-</div>
 
+
+
+<br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungIlJang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **SeungIlJang/SeungIlJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
