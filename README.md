@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Terry&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Terry&fontColor=#9B9FD9&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-# Seungil Jang
 ### Hi there 👋 </br>I'm Seungil Jang, I'm Backend-Engineer
 
 <div align=center><h1>📚 STACKS</h1></div>
