@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=7BD1D2&height=100&section=header&text=Hello%20capsule%20render&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=7BD1D2&height=100&section=header&text=I%20am%20a%20developer&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ### Hi there 👋 </br>I'm Seungil Jang, I'm Backend-Engineer
