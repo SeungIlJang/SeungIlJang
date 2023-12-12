@@ -30,7 +30,12 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br>
+<img alt="OpevCV" src ="https://img.shields.io/badge/OpevCV-5C3EE8.svg?&style=for-the-badge&logo=OpevCV&logoColor=white"/> 
+<img alt="ChatGPT" src ="https://img.shields.io/badgeChatGPT-5C3EE8.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white"/> 
+<img alt="tensorflow" src ="https://img.shields.io/badge/OpevCV-5C3EE8.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
 <br>
+<be>
+
 
 <br/>
   
