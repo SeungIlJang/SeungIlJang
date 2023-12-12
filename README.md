@@ -32,7 +32,7 @@
 <br/>
 <img alt="OpevCV" src ="https://img.shields.io/badge/OpevCV-5C3EE8.svg?&style=for-the-badge&logo=OpevCV&logoColor=white"/> 
 <img alt="ChatGPT" src ="https://img.shields.io/badgeChatGPT-5C3EE8.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white"/> 
-<img alt="tensorflow" src ="https://img.shields.io/badge/OpevCV-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
+<img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
 <br/>
 <br/>
 
