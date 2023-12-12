@@ -31,11 +31,10 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br/>
 <img alt="opencv" src ="https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> 
-<img alt="ChatGPT" src ="https://img.shields.io/badge/chatgpt-319795.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white"/> 
+<img alt="ChatGPT" src ="https://img.shields.io/badge/chase-319795.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white"/> 
 <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
 <br/>
 <br/>
-
 
 <br/>
   
