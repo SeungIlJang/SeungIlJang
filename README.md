@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=7BD1D2&height=100&section=header&text=Welcome%20to%20terry's%20Github&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=55)
 
 
-### Hi there 👋 </br>I'm Seungil Jang, I'm Backend-Engineer
+### Hi there 👋 </br>I'm Seungil Jang, I'm FullStack-Engineer
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
