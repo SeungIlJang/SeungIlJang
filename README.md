@@ -34,6 +34,11 @@
 <img alt="ChatGPT" src ="https://img.shields.io/badge/chatgpt-319795.svg?&style=for-the-badge&logo=ChatGPT&logoColor=white"/> 
 <img alt="tensorflow" src ="https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> 
 <img alt="OpenAI" src ="https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/> 
+
+
+![LangChain](https://img.shields.io/badge/LLM-LangChain-black?style=for-the-badge&logo=openai)
+![LangGraph](https://img.shields.io/badge/Agent-LangGraph-purple?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi)
 <br/>
 <br/>
 
